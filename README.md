@@ -4,9 +4,9 @@ Windows Only. (Could Change The Functions For Printing, Sleeping, And Putting Te
 
 **Build commands:**
 - Windows:
-- 'nasm -f win32 xyphos.asm -o xyphos.obj'
-- 'gcc -m32 xyphos.obj -o xyphos.exe'
-- './xyphos'
+- nasm -f win32 xyphos.asm -o xyphos.obj
+- gcc -m32 xyphos.obj -o xyphos.exe
+- ./xyphos
 
 
 # NOTE
